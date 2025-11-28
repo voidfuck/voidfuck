@@ -15,9 +15,9 @@
  ╚╝ ╚═╝╩═╩╝  ╚  ╚═╝╚═╝╩ ╩
 ```
 
-**`$ whoami`** → Developer, Open Source Enthusiast, Performance Optimizer
-**`$ pwd`** → `/dev/null/../reality`
-**`$ echo $MISSION`** → Making a difference through code
+**`$ whoami`** → Developer, Open Source Enthusiast, Performance Optimizer    
+**`$ pwd`** → `/dev/null/../reality`    
+**`$ echo $MISSION`** → Making a difference through code    
 
 [![GitHub followers](https://img.shields.io/github/followers/voidfuck?style=social)](https://github.com/voidfuck)
 [![GitHub stars](https://img.shields.io/github/stars/voidfuck?style=social)](https://github.com/voidfuck)
